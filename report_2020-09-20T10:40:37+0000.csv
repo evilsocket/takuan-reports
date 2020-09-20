@@ -1,0 +1,16 @@
+address,country_code,country_name,total_events,counters
+78.232.111.29,FR,France,709,pwngrid/invalid-enroll:709
+80.0.41.247,GB,United Kingdom,36,pwngrid/invalid-enroll:36
+174.98.59.17,US,United States,30,pwngrid/invalid-ap:30
+46.242.12.220,RU,Russia,13,pwngrid/invalid-enroll:13
+62.165.20.88,RU,Russia,8,pwngrid/invalid-enroll:8
+208.102.240.86,US,United States,8,pwngrid/invalid-ap:8
+2a04:cec0:1056:e61f:ba27:ebff:fee2:fea2,FR,France,8,pwngrid/invalid-ap:8
+103.133.108.212,VN,Vietnam,6,ssh/user-enumeration:6
+87.3.226.199,IT,Italy,4,pwngrid/invalid-ap:4
+198.98.54.28,US,United States,2,ssh/user-enumeration:2
+2a01:4c8:1072:86ec:ba27:ebff:fe32:31ca,GB,United Kingdom,2,pwngrid/invalid-ap:2
+94.191.62.195,CN,China,2,ssh/user-enumeration:2
+34.106.213.22,US,United States,2,ssh/user-enumeration:2
+36.66.188.183,ID,Indonesia,1,ssh/user-enumeration:1
+51.39.213.26,SA,Saudi Arabia,1,pwngrid/invalid-enroll:1
