@@ -1,0 +1,37 @@
+address,country_code,country_name,total_events,counters
+118.27.19.93,JP,Japan,24,ssh/user-enumeration:24
+109.228.36.50,GB,United Kingdom,16,http/not_a_browser:16
+141.98.9.162,LT,Republic of Lithuania,4,ssh/user-enumeration:4
+141.98.9.163,LT,Republic of Lithuania,4,ssh/user-enumeration:4
+141.98.9.166,LT,Republic of Lithuania,4,ssh/user-enumeration:4
+141.98.9.165,LT,Republic of Lithuania,4,ssh/user-enumeration:4
+82.64.25.207,FR,France,4,ssh/user-enumeration:4
+109.134.113.102,BE,Belgium,4,ssh/user-enumeration:4
+82.65.23.62,FR,France,2,ssh/user-enumeration:2
+191.98.161.236,PE,Peru,2,ssh/user-enumeration:2
+38.102.28.10,US,United States,2,ssh/user-enumeration:2
+141.98.9.167,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.9.164,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+218.95.182.149,CN,China,2,ssh/user-enumeration:2
+173.214.162.250,US,United States,2,ssh/user-enumeration:2
+106.53.192.246,CN,China,2,ssh/user-enumeration:2
+180.76.133.173,CN,China,2,ssh/user-enumeration:2
+180.250.124.227,ID,Indonesia,2,ssh/user-enumeration:2
+161.97.65.120,DE,Germany,2,ssh/user-enumeration:2
+14.33.45.230,KR,South Korea,2,ssh/user-enumeration:2
+91.204.248.42,IT,Italy,2,ssh/user-enumeration:2
+5.196.75.47,FR,France,2,ssh/user-enumeration:2
+200.89.159.190,AR,Argentina,2,ssh/user-enumeration:2
+154.83.15.91,US,United States,2,ssh/user-enumeration:2
+134.209.236.191,DE,Germany,2,ssh/user-enumeration:2
+107.172.104.125,US,United States,2,ssh/user-enumeration:2
+138.197.19.166,US,United States,2,ssh/user-enumeration:2
+202.90.199.206,ID,Indonesia,2,ssh/user-enumeration:2
+45.80.64.230,RU,Russia,2,ssh/user-enumeration:2
+142.4.214.151,CA,Canada,2,ssh/user-enumeration:2
+164.90.194.101,NL,Netherlands,2,ssh/user-enumeration:2
+5.68.154.203,GB,United Kingdom,2,ssh/user-enumeration:2
+210.206.92.137,KR,South Korea,2,ssh/user-enumeration:2
+2001:d08:d3:491c:39db:ab9c:afc:6eeb,MY,Malaysia,1,http/php_files_scan:1
+47.244.230.238,US,United States,1,http/php_files_scan:1
+217.160.250.105,DE,Germany,1,http/php_files_scan:1
