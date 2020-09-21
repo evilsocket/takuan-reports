@@ -1,0 +1,42 @@
+address,country_code,country_name,total_events,counters
+193.228.91.11,GB,United Kingdom,14,ssh/user-enumeration:14
+134.122.53.154,NL,Netherlands,2,ssh/user-enumeration:2
+84.1.31.54,HU,Hungary,2,ssh/user-enumeration:2
+68.183.82.97,IN,India,2,ssh/user-enumeration:2
+183.166.149.245,CN,China,2,ssh/user-enumeration:2
+148.70.68.36,CN,China,2,ssh/user-enumeration:2
+5.135.180.185,FR,France,2,ssh/user-enumeration:2
+134.122.69.7,DE,Germany,2,ssh/user-enumeration:2
+54.37.232.108,FR,France,2,ssh/user-enumeration:2
+181.52.249.181,CO,Colombia,2,ssh/user-enumeration:2
+80.32.201.162,ES,Spain,2,ssh/user-enumeration:2
+118.24.102.99,CN,China,2,ssh/user-enumeration:2
+68.183.12.127,NL,Netherlands,2,ssh/user-enumeration:2
+51.79.44.52,CA,Canada,2,ssh/user-enumeration:2
+200.73.132.93,AR,Argentina,2,ssh/user-enumeration:2
+200.216.30.196,BR,Brazil,2,ssh/user-enumeration:2
+163.172.61.214,GB,United Kingdom,2,ssh/user-enumeration:2
+124.152.118.194,CN,China,2,ssh/user-enumeration:2
+111.231.54.33,CN,China,2,ssh/user-enumeration:2
+79.190.238.134,PL,Poland,2,ssh/user-enumeration:2
+178.128.52.226,SG,Singapore,2,ssh/user-enumeration:2
+202.51.179.10,BD,Bangladesh,2,ssh/user-enumeration:2
+1.204.60.23,CN,China,2,ssh/user-enumeration:2
+106.12.69.156,CN,China,2,ssh/user-enumeration:2
+51.68.44.154,FR,France,2,ssh/user-enumeration:2
+51.158.21.116,FR,France,2,ssh/user-enumeration:2
+87.103.126.98,PT,Portugal,2,ssh/user-enumeration:2
+185.2.140.155,DE,Germany,2,ssh/user-enumeration:2
+165.169.241.28,RE,Réunion,2,ssh/user-enumeration:2
+120.70.102.239,CN,China,2,ssh/user-enumeration:2
+41.38.44.180,EG,Egypt,2,ssh/user-enumeration:2
+49.232.115.233,CN,China,2,ssh/user-enumeration:2
+61.144.97.32,CN,China,2,ssh/user-enumeration:2
+113.56.119.73,CN,China,2,ssh/user-enumeration:2
+175.24.16.135,CN,China,2,ssh/user-enumeration:2
+212.145.192.205,ES,Spain,2,ssh/user-enumeration:2
+117.35.118.42,CN,China,2,ssh/user-enumeration:2
+69.119.85.43,US,United States,2,ssh/user-enumeration:2
+167.220.232.193,JP,Japan,1,http/not_a_browser:1
+45.146.164.186,GB,United Kingdom,1,http/CVE-2017-9841:1
+52.15.111.115,US,United States,1,ssh/user-enumeration:1
