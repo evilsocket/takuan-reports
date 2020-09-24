@@ -1,0 +1,32 @@
+address,country_code,country_name,total_events,counters
+193.228.91.11,GB,United Kingdom,30,ssh/user-enumeration:30
+45.14.224.250,NL,Netherlands,10,ssh/user-enumeration:10
+141.98.10.209,LT,Republic of Lithuania,4,ssh/user-enumeration:4
+141.98.10.214,LT,Republic of Lithuania,4,ssh/user-enumeration:4
+141.98.10.211,LT,Republic of Lithuania,4,ssh/user-enumeration:4
+51.68.121.235,FR,France,2,ssh/user-enumeration:2
+155.159.252.25,US,United States,2,ssh/user-enumeration:2
+51.81.32.236,US,United States,2,ssh/user-enumeration:2
+95.111.192.144,SG,Singapore,2,ssh/user-enumeration:2
+123.143.203.67,KR,South Korea,2,ssh/user-enumeration:2
+119.44.20.30,CN,China,2,ssh/user-enumeration:2
+14.99.117.251,IN,India,2,ssh/user-enumeration:2
+42.194.195.205,CN,China,2,ssh/user-enumeration:2
+139.59.84.29,IN,India,2,ssh/user-enumeration:2
+179.210.134.44,BR,Brazil,2,ssh/user-enumeration:2
+141.98.10.212,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.10.210,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+129.226.170.141,HK,Hong Kong,2,ssh/user-enumeration:2
+139.199.29.155,CN,China,2,ssh/user-enumeration:2
+177.203.210.209,BR,Brazil,2,ssh/user-enumeration:2
+103.136.40.26,NL,Netherlands,2,ssh/user-enumeration:2
+141.98.10.213,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+181.143.226.67,CO,Colombia,2,ssh/user-enumeration:2
+197.235.10.121,MZ,Mozambique,2,ssh/user-enumeration:2
+178.119.120.228,BE,Belgium,2,ssh/user-enumeration:2
+179.157.2.75,BR,Brazil,2,ssh/user-enumeration:2
+146.185.181.64,NL,Netherlands,2,ssh/user-enumeration:2
+51.178.142.175,FR,France,2,ssh/user-enumeration:2
+118.27.9.23,JP,Japan,2,ssh/user-enumeration:2
+2402:1f00:8001:8bd::,SG,Singapore,1,http/php_files_scan:1
+194.187.171.85,PL,Poland,1,http/not_a_browser:1
