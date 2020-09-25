@@ -1,0 +1,31 @@
+address,country_code,country_name,total_events,counters
+217.160.250.105,DE,Germany,45,http/CVE-2017-9841:45
+103.140.250.98,VN,Vietnam,6,ssh/user-enumeration:6
+189.78.28.152,BR,Brazil,2,ssh/user-enumeration:2
+157.245.104.19,IN,India,2,ssh/user-enumeration:2
+51.195.138.52,FR,France,2,ssh/user-enumeration:2
+178.34.190.34,RU,Russia,2,ssh/user-enumeration:2
+113.119.8.16,CN,China,2,ssh/user-enumeration:2
+134.122.26.113,US,United States,2,http/CVE-2017-9841:2
+188.166.23.215,NL,Netherlands,2,ssh/user-enumeration:2
+103.123.8.75,BD,Bangladesh,2,ssh/user-enumeration:2
+188.166.217.55,SG,Singapore,2,ssh/user-enumeration:2
+182.156.216.51,IN,India,2,ssh/user-enumeration:2
+80.82.70.162,SC,Seychelles,2,ssh/user-enumeration:2
+14.225.17.9,VN,Vietnam,2,ssh/user-enumeration:2
+120.133.52.105,CN,China,2,ssh/user-enumeration:2
+140.210.90.197,CN,China,2,ssh/user-enumeration:2
+123.207.92.183,CN,China,2,ssh/user-enumeration:2
+197.5.145.88,TN,Tunisia,2,ssh/user-enumeration:2
+186.4.235.4,EC,Ecuador,2,ssh/user-enumeration:2
+1.179.185.50,TH,Thailand,2,ssh/user-enumeration:2
+180.151.56.103,IN,India,2,ssh/user-enumeration:2
+167.71.134.241,GB,United Kingdom,2,ssh/user-enumeration:2
+223.171.32.55,KR,South Korea,2,ssh/user-enumeration:2
+218.94.136.90,CN,China,2,ssh/user-enumeration:2
+120.92.111.13,CN,China,2,ssh/user-enumeration:2
+103.115.197.75,PK,Pakistan,2,ssh/user-enumeration:2
+182.61.40.161,CN,China,2,ssh/user-enumeration:2
+164.132.225.151,FR,France,2,ssh/user-enumeration:2
+103.44.27.16,ID,Indonesia,2,ssh/user-enumeration:2
+4.17.231.194,US,United States,2,ssh/user-enumeration:2
