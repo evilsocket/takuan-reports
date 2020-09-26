@@ -1,0 +1,32 @@
+address,country_code,country_name,total_events,counters
+104.131.60.112,US,United States,10,ssh/user-enumeration:10
+207.154.242.82,DE,Germany,10,ssh/user-enumeration:10
+45.65.230.125,BR,Brazil,4,ssh/user-enumeration:4
+216.158.233.4,US,United States,2,ssh/user-enumeration:2
+124.160.96.249,CN,China,2,ssh/user-enumeration:2
+167.71.38.104,DE,Germany,2,ssh/user-enumeration:2
+167.71.215.182,SG,Singapore,2,ssh/user-enumeration:2
+202.137.20.53,ID,Indonesia,2,ssh/user-enumeration:2
+177.44.208.107,BR,Brazil,2,ssh/user-enumeration:2
+112.112.7.202,CN,China,2,ssh/user-enumeration:2
+217.182.23.55,FR,France,2,ssh/user-enumeration:2
+128.199.118.165,SG,Singapore,2,ssh/user-enumeration:2
+60.49.44.219,MY,Malaysia,2,ssh/user-enumeration:2
+54.38.180.185,FR,France,2,ssh/user-enumeration:2
+139.59.88.86,IN,India,2,ssh/user-enumeration:2
+36.89.155.166,ID,Indonesia,2,ssh/user-enumeration:2
+211.193.31.52,KR,South Korea,2,ssh/user-enumeration:2
+119.28.75.193,HK,Hong Kong,2,ssh/user-enumeration:2
+194.5.207.189,NL,Netherlands,2,ssh/user-enumeration:2
+104.243.25.75,US,United States,2,ssh/user-enumeration:2
+62.4.16.46,FR,France,2,ssh/user-enumeration:2
+161.117.7.137,CN,China,2,ssh/user-enumeration:2
+111.229.120.173,CN,China,2,ssh/user-enumeration:2
+51.178.86.49,FR,France,2,ssh/user-enumeration:2
+91.207.40.45,RU,Russia,2,ssh/user-enumeration:2
+51.210.151.242,FR,France,2,ssh/user-enumeration:2
+128.199.18.67,IN,India,2,ssh/user-enumeration:2
+64.102.253.119,US,United States,1,http/not_a_browser:1
+5.188.210.227,RU,Russia,1,http/php_files_scan:1
+191.234.178.249,BR,Brazil,1,http/php_files_scan:1
+176.113.115.214,RU,Russia,1,http/CVE-2017-9841:1
