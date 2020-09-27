@@ -1,0 +1,31 @@
+address,country_code,country_name,total_events,counters
+213.217.0.184,RU,Russia,20,ssh/user-enumeration:20
+193.239.147.156,NL,Netherlands,10,ssh/user-enumeration:10
+141.98.10.209,LT,Republic of Lithuania,4,ssh/user-enumeration:4
+141.98.10.214,LT,Republic of Lithuania,4,ssh/user-enumeration:4
+194.180.224.130,US,United States,4,ssh/user-enumeration:4
+141.98.10.211,LT,Republic of Lithuania,4,ssh/user-enumeration:4
+123.31.45.49,VN,Vietnam,2,ssh/user-enumeration:2
+106.54.92.106,CN,China,2,ssh/user-enumeration:2
+194.87.139.236,RU,Russia,2,ssh/user-enumeration:2
+159.89.91.67,US,United States,2,ssh/user-enumeration:2
+104.131.88.229,US,United States,2,ssh/user-enumeration:2
+196.27.127.61,ZW,Zimbabwe,2,ssh/user-enumeration:2
+78.199.19.89,FR,France,2,ssh/user-enumeration:2
+85.194.87.2,SA,Saudi Arabia,2,ssh/user-enumeration:2
+167.172.98.198,DE,Germany,2,ssh/user-enumeration:2
+118.179.60.62,BD,Bangladesh,2,ssh/user-enumeration:2
+188.193.221.230,DE,Germany,2,ssh/user-enumeration:2
+132.232.230.220,CN,China,2,ssh/user-enumeration:2
+141.98.10.212,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.10.213,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.10.210,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+183.82.121.34,IN,India,2,ssh/user-enumeration:2
+35.223.14.11,US,United States,2,ssh/user-enumeration:2
+137.220.134.189,JP,Japan,2,ssh/user-enumeration:2
+34.68.180.110,US,United States,2,ssh/user-enumeration:2
+193.70.89.118,FR,France,1,http/php_files_scan:1
+185.153.196.226,RU,Russia,1,http/not_a_browser:1
+52.151.119.133,GB,United Kingdom,1,http/CVE-2017-9841:1
+176.113.115.214,RU,Russia,1,http/XDebug:1
+94.103.85.175,RU,Russia,1,http/php_files_scan:1
