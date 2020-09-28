@@ -1,0 +1,38 @@
+address,country_code,country_name,total_events,counters
+193.228.91.105,GB,United Kingdom,20,ssh/user-enumeration:20
+207.154.242.82,DE,Germany,10,ssh/user-enumeration:10
+141.98.10.209,LT,Republic of Lithuania,4,ssh/user-enumeration:4
+141.98.10.214,LT,Republic of Lithuania,4,ssh/user-enumeration:4
+141.98.10.211,LT,Republic of Lithuania,4,ssh/user-enumeration:4
+83.233.231.3,SE,Sweden,2,ssh/user-enumeration:2
+104.236.214.8,US,United States,2,ssh/user-enumeration:2
+110.164.93.99,TH,Thailand,2,ssh/user-enumeration:2
+165.22.247.221,SG,Singapore,2,ssh/user-enumeration:2
+1.10.246.179,TH,Thailand,2,ssh/user-enumeration:2
+200.73.129.102,AR,Argentina,2,ssh/user-enumeration:2
+106.54.47.171,CN,China,2,ssh/user-enumeration:2
+103.205.68.2,BD,Bangladesh,2,ssh/user-enumeration:2
+129.211.36.4,CN,China,2,ssh/user-enumeration:2
+141.98.10.210,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+223.197.151.55,HK,Hong Kong,2,ssh/user-enumeration:2
+45.162.4.175,BR,Brazil,2,ssh/user-enumeration:2
+45.7.196.77,BR,Brazil,2,ssh/user-enumeration:2
+193.34.186.154,GB,United Kingdom,2,ssh/user-enumeration:2
+150.109.47.167,HK,Hong Kong,2,ssh/user-enumeration:2
+49.235.221.172,CN,China,2,ssh/user-enumeration:2
+202.153.37.194,IN,India,2,ssh/user-enumeration:2
+91.134.138.46,FR,France,2,ssh/user-enumeration:2
+170.106.37.30,US,United States,2,ssh/user-enumeration:2
+154.221.27.28,HK,Hong Kong,2,ssh/user-enumeration:2
+103.110.84.196,VN,Vietnam,2,ssh/user-enumeration:2
+117.247.183.216,IN,India,2,ssh/user-enumeration:2
+141.98.10.213,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+91.211.124.217,RU,Russia,2,ssh/user-enumeration:2
+51.254.205.6,FR,France,2,ssh/user-enumeration:2
+3.131.114.99,US,United States,2,ssh/user-enumeration:2
+212.64.91.114,CN,China,2,ssh/user-enumeration:2
+134.175.191.248,CN,China,2,ssh/user-enumeration:2
+141.98.10.212,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+34.224.5.255,US,United States,1,http/CVE-2017-9841:1
+51.178.42.44,FR,France,1,http/php_files_scan:1
+54.237.82.59,US,United States,1,http/CVE-2017-9841:1
