@@ -1,0 +1,15 @@
+address,country_code,country_name,total_events,counters
+161.97.94.112,DE,Germany,38,ssh/user-enumeration:38
+193.228.91.105,GB,United Kingdom,10,ssh/user-enumeration:10
+74.97.19.201,US,United States,2,ssh/user-enumeration:2
+168.62.29.77,US,United States,2,http/php_files_scan:2
+50.227.77.194,US,United States,2,ssh/user-enumeration:2
+170.210.203.201,AR,Argentina,1,ssh/user-enumeration:1
+104.131.83.213,US,United States,1,ssh/user-enumeration:1
+103.254.73.74,KR,South Korea,1,ssh/user-enumeration:1
+118.96.94.135,ID,Indonesia,1,ssh/user-enumeration:1
+134.17.94.65,BY,Belarus,1,ssh/user-enumeration:1
+187.149.137.250,MX,Mexico,1,ssh/user-enumeration:1
+185.56.153.229,FR,France,1,ssh/user-enumeration:1
+152.136.101.207,CN,China,1,ssh/user-enumeration:1
+119.45.58.111,CN,China,1,ssh/user-enumeration:1
