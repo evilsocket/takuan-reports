@@ -1,0 +1,14 @@
+address,country_code,country_name,total_events,counters
+89.139.116.239,IL,Israel,16,http/not_a_browser:16
+193.228.91.105,GB,United Kingdom,10,ssh/user-enumeration:10
+45.84.196.60,US,United States,9,ssh/user-enumeration:9
+141.98.10.209,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.10.214,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+82.64.77.30,FR,France,2,ssh/user-enumeration:2
+141.98.10.211,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+177.23.184.99,BR,Brazil,1,ssh/user-enumeration:1
+141.98.10.210,LT,Republic of Lithuania,1,ssh/user-enumeration:1
+141.98.10.213,LT,Republic of Lithuania,1,ssh/user-enumeration:1
+45.77.176.234,JP,Japan,1,ssh/user-enumeration:1
+116.233.19.80,CN,China,1,ssh/user-enumeration:1
+141.98.10.212,LT,Republic of Lithuania,1,ssh/user-enumeration:1
