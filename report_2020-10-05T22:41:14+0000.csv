@@ -1,0 +1,17 @@
+address,country_code,country_name,total_events,counters
+194.180.224.115,US,United States,5,ssh/user-enumeration:5
+176.113.115.214,RU,Russia,3,http/CVE-2017-9841:1|http/XDebug:1|http/ThinkPHP RCE:1
+106.12.208.175,CN,China,3,http/php_files_scan:3
+141.98.9.31,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.9.36,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.9.162,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.9.166,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.9.163,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.9.165,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.9.33,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.9.35,LT,Republic of Lithuania,1,ssh/user-enumeration:1
+141.98.9.34,LT,Republic of Lithuania,1,ssh/user-enumeration:1
+141.98.9.32,LT,Republic of Lithuania,1,ssh/user-enumeration:1
+141.98.9.167,LT,Republic of Lithuania,1,ssh/user-enumeration:1
+141.98.9.164,LT,Republic of Lithuania,1,ssh/user-enumeration:1
+186.94.196.125,VE,Venezuela,1,ssh/user-enumeration:1
