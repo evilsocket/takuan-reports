@@ -1,0 +1,8 @@
+address,country_code,country_name,total_events,counters
+45.84.196.60,US,United States,10,ssh/user-enumeration:10
+185.214.165.113,DK,Denmark,2,http/php_files_scan:2
+176.113.115.214,RU,Russia,2,http/ThinkPHP RCE:1|http/XDebug:1
+223.99.203.186,CN,China,2,ssh/user-enumeration:2
+220.128.159.121,TW,Taiwan,1,ssh/user-enumeration:1
+185.220.101.15,DE,Germany,1,ssh/user-enumeration:1
+24.189.206.5,US,United States,1,http/php_files_scan:1
