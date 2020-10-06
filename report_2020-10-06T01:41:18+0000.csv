@@ -1,0 +1,5 @@
+address,country_code,country_name,total_events,counters
+111.231.94.161,CN,China,8,http/php_files_scan:8
+117.216.96.66,IN,India,1,ssh/user-enumeration:1
+39.104.207.247,CN,China,1,http/php_files_scan:1
+176.113.115.214,RU,Russia,1,http/CVE-2017-9841:1
