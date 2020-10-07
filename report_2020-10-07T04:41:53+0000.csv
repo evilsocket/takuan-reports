@@ -1,0 +1,5 @@
+address,country_code,country_name,total_events,counters
+193.228.91.110,GB,United Kingdom,10,ssh/user-enumeration:10
+13.88.234.236,CA,Canada,1,http/php_files_scan:1
+180.191.179.120,PH,Philippines,1,http/php_files_scan:1
+65.49.20.69,US,United States,1,ssh/user-enumeration:1
