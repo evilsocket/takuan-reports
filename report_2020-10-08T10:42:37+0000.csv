@@ -1,0 +1,6 @@
+address,country_code,country_name,total_events,counters
+84.70.244.95,GB,United Kingdom,65,http/not_a_browser:65
+139.59.215.171,DE,Germany,45,ssh/user-enumeration:45
+13.94.30.18,HK,Hong Kong,1,http/php_files_scan:1
+207.241.226.219,US,United States,1,http/not_a_browser:1
+185.220.101.15,DE,Germany,1,ssh/user-enumeration:1
