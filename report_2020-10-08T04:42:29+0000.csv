@@ -1,0 +1,19 @@
+address,country_code,country_name,total_events,counters
+193.228.91.123,GB,United Kingdom,7,ssh/user-enumeration:7
+193.228.91.105,GB,United Kingdom,4,ssh/user-enumeration:4
+93.144.221.37,IT,Italy,2,ssh/user-enumeration:2
+141.98.9.162,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+194.180.224.130,US,United States,2,ssh/user-enumeration:2
+141.98.10.209,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.10.214,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.9.165,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.9.163,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.10.211,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.9.166,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.9.164,LT,Republic of Lithuania,1,ssh/user-enumeration:1
+141.98.10.212,LT,Republic of Lithuania,1,ssh/user-enumeration:1
+111.92.240.206,KH,Cambodia,1,http/php_files_scan:1
+65.49.20.67,US,United States,1,ssh/user-enumeration:1
+141.98.10.213,LT,Republic of Lithuania,1,ssh/user-enumeration:1
+141.98.9.167,LT,Republic of Lithuania,1,ssh/user-enumeration:1
+141.98.10.210,LT,Republic of Lithuania,1,ssh/user-enumeration:1
