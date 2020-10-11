@@ -1,0 +1,28 @@
+address,country_code,country_name,total_events,counters
+185.132.53.115,DE,Germany,5,ssh/user-enumeration:5
+23.95.186.183,US,United States,5,ssh/user-enumeration:5
+141.98.9.36,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.9.31,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.9.33,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+128.199.63.176,NL,Netherlands,1,ssh/user-enumeration:1
+125.99.72.27,IN,India,1,ssh/user-enumeration:1
+141.98.9.32,LT,Republic of Lithuania,1,ssh/user-enumeration:1
+106.12.172.207,CN,China,1,ssh/user-enumeration:1
+200.108.131.234,PY,Paraguay,1,ssh/user-enumeration:1
+211.159.218.251,CN,China,1,ssh/user-enumeration:1
+65.49.20.69,US,United States,1,ssh/user-enumeration:1
+66.175.210.199,US,United States,1,ssh/user-enumeration:1
+183.6.107.68,CN,China,1,ssh/user-enumeration:1
+116.236.60.114,CN,China,1,ssh/user-enumeration:1
+193.27.228.27,RU,Russia,1,http/CVE-2017-9841:1
+197.5.145.69,TN,Tunisia,1,ssh/user-enumeration:1
+182.61.36.44,CN,China,1,ssh/user-enumeration:1
+5.135.186.52,FR,France,1,ssh/user-enumeration:1
+141.98.9.34,LT,Republic of Lithuania,1,ssh/user-enumeration:1
+45.40.198.93,VN,Vietnam,1,ssh/user-enumeration:1
+141.98.9.35,LT,Republic of Lithuania,1,ssh/user-enumeration:1
+111.230.233.91,CN,China,1,ssh/user-enumeration:1
+203.251.11.118,KR,South Korea,1,ssh/user-enumeration:1
+18.132.192.38,GB,United Kingdom,1,ssh/user-enumeration:1
+85.145.164.39,NL,Netherlands,1,ssh/user-enumeration:1
+2607:5300:60:386a::,CA,Canada,1,http/php_files_scan:1
