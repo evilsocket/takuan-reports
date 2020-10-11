@@ -1,0 +1,6 @@
+address,country_code,country_name,total_events,counters
+45.148.10.28,NL,Netherlands,10,ssh/user-enumeration:10
+88.127.243.203,FR,France,2,ssh/user-enumeration:2
+85.239.35.130,RU,Russia,2,ssh/user-enumeration:2
+220.123.241.30,KR,South Korea,1,ssh/user-enumeration:1
+193.27.228.27,RU,Russia,1,http/CVE-2017-9841:1
