@@ -1,0 +1,20 @@
+address,country_code,country_name,total_events,counters
+51.91.116.150,FR,France,29,ssh/user-enumeration:29
+157.245.254.255,US,United States,25,ssh/user-enumeration:25
+67.225.31.100,CA,Canada,2,ssh/user-enumeration:2
+159.89.202.16,SG,Singapore,2,http/not_a_browser:2
+45.168.57.180,BR,Brazil,2,ssh/user-enumeration:2
+106.13.177.53,CN,China,1,ssh/user-enumeration:1
+134.175.59.225,CN,China,1,ssh/user-enumeration:1
+106.12.91.225,CN,China,1,ssh/user-enumeration:1
+115.236.19.35,CN,China,1,ssh/user-enumeration:1
+172.81.241.92,CN,China,1,ssh/user-enumeration:1
+45.15.10.59,DE,Germany,1,ssh/user-enumeration:1
+144.34.192.10,US,United States,1,ssh/user-enumeration:1
+181.112.155.197,EC,Ecuador,1,ssh/user-enumeration:1
+39.101.165.84,CN,China,1,http/not_a_browser:1
+51.75.126.115,FR,France,1,ssh/user-enumeration:1
+46.185.138.163,JO,Hashemite Kingdom of Jordan,1,ssh/user-enumeration:1
+45.254.25.62,CN,China,1,ssh/user-enumeration:1
+52.130.75.32,CN,China,1,ssh/user-enumeration:1
+34.94.36.168,US,United States,1,http/CVE-2017-9841:1
