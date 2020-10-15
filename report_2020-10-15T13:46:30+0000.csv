@@ -1,0 +1,21 @@
+address,country_code,country_name,total_events,counters
+51.91.116.150,FR,France,31,ssh/user-enumeration:31
+87.251.74.36,RU,Russia,5,ssh/user-enumeration:5
+141.98.9.166,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+193.27.228.27,RU,Russia,2,http/CVE-2017-9841:2
+141.98.9.165,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.9.162,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+141.98.9.163,LT,Republic of Lithuania,2,ssh/user-enumeration:2
+51.210.107.15,FR,France,1,ssh/user-enumeration:1
+197.248.16.118,KE,Kenya,1,ssh/user-enumeration:1
+82.251.198.4,FR,France,1,ssh/user-enumeration:1
+37.46.134.25,RU,Russia,1,http/not_a_browser:1
+46.146.240.185,RU,Russia,1,ssh/user-enumeration:1
+45.143.221.12,NL,Netherlands,1,http/php_files_scan:1
+157.230.122.80,DE,Germany,1,ssh/user-enumeration:1
+141.98.9.164,LT,Republic of Lithuania,1,ssh/user-enumeration:1
+64.225.121.105,US,United States,1,ssh/user-enumeration:1
+206.189.174.127,US,United States,1,ssh/user-enumeration:1
+141.98.9.167,LT,Republic of Lithuania,1,ssh/user-enumeration:1
+107.170.113.190,US,United States,1,ssh/user-enumeration:1
+117.232.71.178,IN,India,1,ssh/user-enumeration:1
