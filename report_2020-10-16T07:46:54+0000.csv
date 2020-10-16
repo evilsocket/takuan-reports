@@ -1,0 +1,21 @@
+address,country_code,country_name,total_events,counters
+178.91.95.178,KZ,Kazakhstan,7,ssh/user-enumeration:7
+165.227.5.140,US,United States,6,ssh/user-enumeration:6
+88.218.16.76,NL,Netherlands,5,ssh/user-enumeration:5
+193.228.91.11,GB,United Kingdom,5,ssh/user-enumeration:5
+87.251.74.36,RU,Russia,2,ssh/user-enumeration:2
+193.112.98.79,CN,China,1,ssh/user-enumeration:1
+116.255.216.34,CN,China,1,ssh/user-enumeration:1
+73.222.126.29,US,United States,1,ssh/user-enumeration:1
+61.155.138.100,CN,China,1,ssh/user-enumeration:1
+152.136.110.246,CN,China,1,ssh/user-enumeration:1
+39.101.1.61,CN,China,1,http/php_files_scan:1
+122.51.82.22,CN,China,1,ssh/user-enumeration:1
+183.87.14.254,IN,India,1,http/php_files_scan:1
+51.89.148.69,GB,United Kingdom,1,ssh/user-enumeration:1
+37.59.229.31,FR,France,1,ssh/user-enumeration:1
+193.27.228.27,RU,Russia,1,http/CVE-2017-9841:1
+51.178.41.60,FR,France,1,ssh/user-enumeration:1
+185.100.87.41,RO,Romania,1,ssh/user-enumeration:1
+189.112.89.17,BR,Brazil,1,ssh/user-enumeration:1
+51.158.104.101,FR,France,1,ssh/user-enumeration:1
