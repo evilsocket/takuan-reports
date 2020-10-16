@@ -1,0 +1,16 @@
+address,country_code,country_name,total_events,counters
+193.228.91.11,GB,United Kingdom,10,ssh/user-enumeration:10
+159.65.136.194,SG,Singapore,9,ssh/user-enumeration:9
+87.251.74.36,RU,Russia,5,ssh/user-enumeration:5
+45.84.196.49,US,United States,5,ssh/user-enumeration:5
+171.235.86.239,VN,Vietnam,5,ssh/user-enumeration:5
+91.160.19.34,FR,France,2,ssh/user-enumeration:2
+167.99.51.159,US,United States,1,ssh/user-enumeration:1
+2001:41d0:1:f934::1,FR,France,1,http/php_files_scan:1
+104.236.244.98,US,United States,1,ssh/user-enumeration:1
+103.8.119.166,IN,India,1,ssh/user-enumeration:1
+154.118.225.106,TZ,Tanzania,1,ssh/user-enumeration:1
+124.205.108.64,CN,China,1,ssh/user-enumeration:1
+52.0.234.210,US,United States,1,ssh/user-enumeration:1
+189.112.228.153,BR,Brazil,1,ssh/user-enumeration:1
+139.59.57.64,IN,India,1,http/php_files_scan:1
