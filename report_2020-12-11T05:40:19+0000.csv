@@ -1,0 +1,90 @@
+address,country_code,country_name,total_events,counters
+46.105.31.249,FR,France,130,ssh/user-enumeration:130
+134.209.197.46,NL,Netherlands,109,ssh/user-enumeration:109
+13.77.204.88,US,United States,86,http/php_files_scan:72|http/not_a_browser:14
+87.251.77.206,RU,Russia,14,ssh/user-enumeration:14
+104.248.249.167,DE,Germany,10,ssh/user-enumeration:10
+159.65.115.130,DE,Germany,5,ssh/user-enumeration:5
+104.236.9.144,US,United States,5,ssh/user-enumeration:5
+165.227.163.146,DE,Germany,5,ssh/user-enumeration:5
+141.98.81.194,PA,Panama,2,ssh/user-enumeration:2
+94.254.73.7,SE,Sweden,2,ssh/user-enumeration:2
+141.98.81.192,PA,Panama,2,ssh/user-enumeration:2
+141.98.81.202,PA,Panama,2,ssh/user-enumeration:2
+46.6.15.129,ES,Spain,2,ssh/user-enumeration:2
+141.98.81.197,PA,Panama,2,ssh/user-enumeration:2
+176.36.17.63,UA,Ukraine,1,ssh/user-enumeration:1
+139.155.255.117,CN,China,1,ssh/user-enumeration:1
+88.157.229.58,PT,Portugal,1,ssh/user-enumeration:1
+116.55.245.26,CN,China,1,ssh/user-enumeration:1
+171.216.84.35,CN,China,1,ssh/user-enumeration:1
+195.43.189.68,IT,Italy,1,http/WP-File-Manager RCE:1
+160.16.215.81,JP,Japan,1,ssh/user-enumeration:1
+182.61.150.12,CN,China,1,ssh/user-enumeration:1
+178.73.215.171,SE,Sweden,1,ssh/user-enumeration:1
+45.155.205.87,DE,Germany,1,ssh/user-enumeration:1
+46.61.247.131,RU,Russia,1,ssh/user-enumeration:1
+122.51.77.182,CN,China,1,ssh/user-enumeration:1
+68.183.52.2,US,United States,1,ssh/user-enumeration:1
+106.13.37.33,CN,China,1,ssh/user-enumeration:1
+106.75.31.126,CN,China,1,ssh/user-enumeration:1
+139.59.57.2,IN,India,1,ssh/user-enumeration:1
+206.189.122.104,GB,United Kingdom,1,ssh/user-enumeration:1
+118.24.146.186,CN,China,1,ssh/user-enumeration:1
+128.199.174.204,SG,Singapore,1,ssh/user-enumeration:1
+143.110.250.87,US,United States,1,ssh/user-enumeration:1
+145.239.224.31,FR,France,1,ssh/user-enumeration:1
+40.122.117.242,US,United States,1,http/php_files_scan:1
+203.230.6.175,KR,South Korea,1,ssh/user-enumeration:1
+223.100.167.105,CN,China,1,ssh/user-enumeration:1
+222.185.235.186,CN,China,1,ssh/user-enumeration:1
+145.239.76.62,FR,France,1,ssh/user-enumeration:1
+62.219.162.155,IL,Israel,1,ssh/user-enumeration:1
+45.155.205.86,DE,Germany,1,ssh/user-enumeration:1
+174.138.46.137,US,United States,1,ssh/user-enumeration:1
+201.218.215.106,PA,Panama,1,ssh/user-enumeration:1
+105.155.101.149,MA,Morocco,1,http/php_files_scan:1
+129.213.117.100,US,United States,1,ssh/user-enumeration:1
+178.62.104.58,GB,United Kingdom,1,ssh/user-enumeration:1
+45.14.149.205,RO,Romania,1,ssh/user-enumeration:1
+129.204.125.231,CN,China,1,ssh/user-enumeration:1
+101.187.123.101,AU,Australia,1,ssh/user-enumeration:1
+206.189.145.21,SG,Singapore,1,ssh/user-enumeration:1
+141.98.81.196,PA,Panama,1,ssh/user-enumeration:1
+13.59.11.228,US,United States,1,http/php_files_scan:1
+13.70.7.22,HK,Hong Kong,1,ssh/user-enumeration:1
+141.98.81.200,PA,Panama,1,ssh/user-enumeration:1
+49.234.111.57,CN,China,1,ssh/user-enumeration:1
+117.232.127.51,IN,India,1,ssh/user-enumeration:1
+47.241.61.131,CN,China,1,ssh/user-enumeration:1
+119.45.34.52,CN,China,1,ssh/user-enumeration:1
+51.77.201.36,FR,France,1,ssh/user-enumeration:1
+103.78.81.227,ID,Indonesia,1,ssh/user-enumeration:1
+103.233.0.18,MY,Malaysia,1,ssh/user-enumeration:1
+158.69.222.2,CA,Canada,1,ssh/user-enumeration:1
+189.55.194.94,BR,Brazil,1,ssh/user-enumeration:1
+188.254.0.182,RU,Russia,1,ssh/user-enumeration:1
+64.225.121.105,US,United States,1,ssh/user-enumeration:1
+132.232.46.230,CN,China,1,http/php_files_scan:1
+51.222.25.161,CA,Canada,1,ssh/user-enumeration:1
+187.189.51.117,MX,Mexico,1,ssh/user-enumeration:1
+51.254.203.205,FR,France,1,ssh/user-enumeration:1
+185.14.233.249,CZ,Czechia,1,ssh/user-enumeration:1
+49.235.181.51,CN,China,1,ssh/user-enumeration:1
+163.172.61.214,GB,United Kingdom,1,ssh/user-enumeration:1
+47.75.3.195,HK,Hong Kong,1,http/php_files_scan:1
+81.69.242.16,CN,China,1,ssh/user-enumeration:1
+163.172.91.248,GB,United Kingdom,1,ssh/user-enumeration:1
+81.68.66.41,CN,China,1,ssh/user-enumeration:1
+196.15.211.91,ZA,South Africa,1,ssh/user-enumeration:1
+139.59.186.178,GB,United Kingdom,1,ssh/user-enumeration:1
+152.32.113.60,PH,Philippines,1,http/php_files_scan:1
+167.172.156.12,US,United States,1,ssh/user-enumeration:1
+139.155.247.50,CN,China,1,ssh/user-enumeration:1
+77.21.163.106,DE,Germany,1,ssh/user-enumeration:1
+51.75.255.250,FR,France,1,ssh/user-enumeration:1
+200.73.132.67,AR,Argentina,1,ssh/user-enumeration:1
+65.49.20.68,US,United States,1,ssh/user-enumeration:1
+187.188.107.115,MX,Mexico,1,ssh/user-enumeration:1
+64.225.39.69,US,United States,1,ssh/user-enumeration:1
+2600:6c42:6600:310:b80f:f83f:9b37:8ef6,US,United States,1,http/not_a_browser:1
