@@ -1,0 +1,11 @@
+address,country_code,country_name,total_events,counters
+104.248.18.26,DE,Germany,25,ssh/user-enumeration:25
+87.251.77.206,RU,Russia,12,ssh/user-enumeration:12
+159.65.205.43,NL,Netherlands,10,ssh/user-enumeration:10
+188.166.37.50,NL,Netherlands,5,ssh/user-enumeration:5
+45.146.164.15,GB,United Kingdom,4,http/XDebug:1|http/CVE-2017-9841:2|http/ThinkPHP RCE:1
+37.46.150.206,NL,Netherlands,2,ssh/user-enumeration:2
+188.166.112.118,NL,Netherlands,2,http/not_a_browser:2
+45.155.205.86,DE,Germany,2,ssh/user-enumeration:2
+31.31.14.134,MD,Republic of Moldova,2,ssh/user-enumeration:2
+45.155.205.87,DE,Germany,1,ssh/user-enumeration:1
