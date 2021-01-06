@@ -1,0 +1,16 @@
+address,country_code,country_name,total_events,counters
+46.101.183.92,DE,Germany,14,ssh/user-enumeration:14
+62.234.218.151,CN,China,8,http/php_files_scan:8
+87.251.77.206,RU,Russia,6,ssh/user-enumeration:6
+72.187.191.152,US,United States,3,ssh/user-enumeration:3
+45.55.59.41,US,United States,2,http/php_files_scan:2
+112.6.129.80,CN,China,2,ssh/user-enumeration:2
+185.153.196.198,RU,Russia,1,http/not_a_browser:1
+185.129.248.103,ES,Spain,1,http/php_files_scan:1
+161.97.125.43,DE,Germany,1,http/not_a_browser:1
+45.155.205.86,DE,Germany,1,ssh/user-enumeration:1
+193.169.252.59,PL,Poland,1,ssh/user-enumeration:1
+45.155.205.87,DE,Germany,1,ssh/user-enumeration:1
+104.210.60.213,US,United States,1,http/php_files_scan:1
+173.225.109.48,US,United States,1,http/not_a_browser:1
+171.252.155.123,VN,Vietnam,1,http/php_files_scan:1
