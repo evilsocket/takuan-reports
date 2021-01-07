@@ -1,0 +1,26 @@
+address,country_code,country_name,total_events,counters
+46.101.48.173,GB,United Kingdom,13,ssh/user-enumeration:13
+40.114.114.204,US,United States,8,http/not_a_browser:8
+116.105.210.84,VN,Vietnam,6,ssh/user-enumeration:6
+171.227.20.221,VN,Vietnam,5,ssh/user-enumeration:5
+45.155.205.108,DE,Germany,4,http/CVE-2017-9841:2|http/XDebug:1|http/ThinkPHP RCE:1
+72.187.191.152,US,United States,3,ssh/user-enumeration:3
+141.98.80.85,PA,Panama,2,ssh/user-enumeration:2
+112.6.129.80,CN,China,2,ssh/user-enumeration:2
+1.222.105.27,KR,South Korea,2,ssh/user-enumeration:2
+141.98.80.82,PA,Panama,2,ssh/user-enumeration:2
+177.126.85.125,BR,Brazil,2,ssh/user-enumeration:2
+73.171.33.15,US,United States,2,ssh/user-enumeration:2
+141.98.80.71,PA,Panama,2,ssh/user-enumeration:2
+141.98.80.69,PA,Panama,2,ssh/user-enumeration:2
+84.2.58.60,HU,Hungary,2,ssh/user-enumeration:2
+212.90.32.202,UA,Ukraine,2,ssh/user-enumeration:2
+145.40.33.205,AT,Austria,2,ssh/user-enumeration:2
+31.207.35.138,FR,France,1,http/not_a_browser:1
+141.98.80.70,PA,Panama,1,ssh/user-enumeration:1
+45.155.205.86,DE,Germany,1,ssh/user-enumeration:1
+141.98.80.83,PA,Panama,1,ssh/user-enumeration:1
+45.155.205.87,DE,Germany,1,ssh/user-enumeration:1
+5.2.78.69,NL,Netherlands,1,ssh/user-enumeration:1
+49.234.145.59,CN,China,1,http/php_files_scan:1
+65.49.20.67,US,United States,1,ssh/user-enumeration:1
