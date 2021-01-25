@@ -1,0 +1,39 @@
+address,country_code,country_name,total_events,counters
+206.189.0.110,NL,Netherlands,46,ssh/user-enumeration:46
+209.141.58.232,US,United States,23,http/php_files_scan:23
+87.251.77.206,RU,Russia,14,ssh/user-enumeration:14
+152.32.190.160,HK,Hong Kong,8,http/php_files_scan:8
+206.189.103.1,NL,Netherlands,7,ssh/user-enumeration:7
+104.42.127.76,US,United States,5,http/not_a_browser:2|http/php_files_scan:3
+206.189.80.67,SG,Singapore,5,ssh/user-enumeration:5
+209.141.53.219,US,United States,5,ssh/user-enumeration:5
+199.19.226.67,US,United States,5,ssh/user-enumeration:5
+37.120.147.234,US,United States,4,http/not_a_browser:3|http/php_files_scan:1
+185.242.5.186,US,United States,4,http/not_a_browser:3|http/php_files_scan:1
+45.155.205.108,DE,Germany,4,http/CVE-2017-9841:2|http/ThinkPHP RCE:1|http/XDebug:1
+75.175.126.5,US,United States,2,ssh/user-enumeration:2
+71.220.49.85,US,United States,2,ssh/user-enumeration:2
+97.121.173.132,US,United States,2,ssh/user-enumeration:2
+35.204.172.12,NL,Netherlands,2,http/php_files_scan:2
+178.128.205.229,DE,Germany,2,ssh/user-enumeration:2
+13.228.104.57,SG,Singapore,2,http/php_files_scan:2
+62.143.39.246,DE,Germany,2,ssh/user-enumeration:2
+165.22.95.53,DE,Germany,2,ssh/user-enumeration:2
+71.38.49.136,US,United States,2,ssh/user-enumeration:2
+159.89.110.115,DE,Germany,1,ssh/user-enumeration:1
+23.129.64.226,US,United States,1,ssh/user-enumeration:1
+104.248.248.77,DE,Germany,1,ssh/user-enumeration:1
+138.197.179.100,DE,Germany,1,ssh/user-enumeration:1
+167.172.161.171,DE,Germany,1,ssh/user-enumeration:1
+138.0.143.55,BR,Brazil,1,ssh/user-enumeration:1
+206.189.105.229,NL,Netherlands,1,ssh/user-enumeration:1
+45.155.205.87,DE,Germany,1,ssh/user-enumeration:1
+202.104.112.217,CN,China,1,ssh/user-enumeration:1
+91.192.103.24,CH,Switzerland,1,ssh/user-enumeration:1
+139.59.144.132,DE,Germany,1,ssh/user-enumeration:1
+118.24.101.35,CN,China,1,http/php_files_scan:1
+65.49.20.67,US,United States,1,ssh/user-enumeration:1
+123.59.194.227,CN,China,1,ssh/user-enumeration:1
+167.172.169.97,DE,Germany,1,ssh/user-enumeration:1
+178.62.187.136,NL,Netherlands,1,ssh/user-enumeration:1
+207.154.249.183,DE,Germany,1,ssh/user-enumeration:1
