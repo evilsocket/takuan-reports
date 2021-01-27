@@ -1,0 +1,30 @@
+address,country_code,country_name,total_events,counters
+87.251.77.206,RU,Russia,12,ssh/user-enumeration:12
+159.89.96.73,DE,Germany,5,ssh/user-enumeration:5
+206.189.80.120,SG,Singapore,5,ssh/user-enumeration:5
+45.155.205.108,DE,Germany,4,http/ThinkPHP RCE:1|http/CVE-2017-9841:2|http/XDebug:1
+13.236.114.230,AU,Australia,2,http/php_files_scan:2
+141.98.80.29,PA,Panama,2,ssh/user-enumeration:2
+141.98.80.93,PA,Panama,2,ssh/user-enumeration:2
+34.78.227.165,BE,Belgium,2,http/not_a_browser:2
+67.238.170.94,US,United States,2,ssh/user-enumeration:2
+71.213.96.134,US,United States,2,ssh/user-enumeration:2
+104.248.248.77,DE,Germany,2,ssh/user-enumeration:2
+174.24.137.236,US,United States,2,ssh/user-enumeration:2
+141.98.80.90,PA,Panama,2,ssh/user-enumeration:2
+193.27.229.200,RU,Russia,1,ssh/user-enumeration:1
+139.162.122.110,JP,Japan,1,ssh/user-enumeration:1
+157.230.16.91,DE,Germany,1,ssh/user-enumeration:1
+65.49.20.68,US,United States,1,ssh/user-enumeration:1
+198.251.83.248,US,United States,1,ssh/user-enumeration:1
+192.81.214.168,US,United States,1,http/php_files_scan:1
+39.59.27.210,PK,Pakistan,1,http/php_files_scan:1
+187.149.232.103,MX,Mexico,1,http/php_files_scan:1
+165.22.95.53,DE,Germany,1,ssh/user-enumeration:1
+138.68.89.69,DE,Germany,1,ssh/user-enumeration:1
+49.232.69.23,CN,China,1,http/php_files_scan:1
+141.98.80.91,PA,Panama,1,ssh/user-enumeration:1
+43.231.28.140,MV,Maldives,1,http/php_files_scan:1
+141.98.80.89,PA,Panama,1,ssh/user-enumeration:1
+141.98.80.92,PA,Panama,1,ssh/user-enumeration:1
+41.62.96.248,TN,Tunisia,1,http/php_files_scan:1
