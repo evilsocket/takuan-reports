@@ -1,0 +1,23 @@
+address,country_code,country_name,total_events,counters
+87.251.77.206,RU,Russia,14,ssh/user-enumeration:14
+81.161.63.254,CN,China,10,ssh/user-enumeration:10
+111.229.116.167,CN,China,8,http/php_files_scan:8
+27.70.134.169,VN,Vietnam,6,ssh/user-enumeration:6
+171.235.63.50,VN,Vietnam,6,ssh/user-enumeration:6
+206.189.80.67,SG,Singapore,5,ssh/user-enumeration:5
+167.71.91.219,US,United States,5,ssh/user-enumeration:5
+45.155.205.108,DE,Germany,4,http/CVE-2017-9841:2|http/ThinkPHP RCE:1|http/XDebug:1
+75.170.212.179,US,United States,2,ssh/user-enumeration:2
+193.142.146.202,NL,Netherlands,2,http/php_files_scan:2
+54.176.188.51,US,United States,2,http/php_files_scan:2
+35.180.147.121,FR,France,2,http/php_files_scan:2
+185.220.102.247,DE,Germany,2,ssh/user-enumeration:2
+138.197.107.14,US,United States,2,http/php_files_scan:2
+209.126.13.233,US,United States,1,http/php_files_scan:1
+213.246.38.133,FR,France,1,http/not_a_browser:1
+193.27.229.200,RU,Russia,1,ssh/user-enumeration:1
+78.47.218.140,DE,Germany,1,http/php_files_scan:1
+2406:3003:2004:29d7:943:12a7:6e80:baec,SG,Singapore,1,http/php_files_scan:1
+206.189.105.150,NL,Netherlands,1,ssh/user-enumeration:1
+157.230.16.91,DE,Germany,1,ssh/user-enumeration:1
+203.110.242.15,IN,India,1,http/not_a_browser:1
