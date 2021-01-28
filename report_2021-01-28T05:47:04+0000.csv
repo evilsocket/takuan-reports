@@ -1,0 +1,28 @@
+address,country_code,country_name,total_events,counters
+173.225.107.22,US,United States,15,http/CVE-2017-9841:14|http/not_a_browser:1
+81.161.63.254,CN,China,14,ssh/user-enumeration:14
+207.244.234.50,US,United States,12,ssh/user-enumeration:12
+87.251.77.206,RU,Russia,12,ssh/user-enumeration:12
+167.172.246.182,US,United States,10,ssh/user-enumeration:10
+152.32.190.160,HK,Hong Kong,8,http/php_files_scan:8
+104.248.198.246,NL,Netherlands,5,ssh/user-enumeration:5
+104.248.198.249,NL,Netherlands,5,ssh/user-enumeration:5
+193.142.146.4,NL,Netherlands,4,http/php_files_scan:4
+71.213.111.21,US,United States,2,ssh/user-enumeration:2
+71.214.64.167,US,United States,2,ssh/user-enumeration:2
+91.160.19.34,FR,France,2,ssh/user-enumeration:2
+209.141.53.219,US,United States,1,http/php_files_scan:1
+157.230.16.91,DE,Germany,1,ssh/user-enumeration:1
+166.62.100.200,US,United States,1,ssh/user-enumeration:1
+65.49.20.67,US,United States,1,ssh/user-enumeration:1
+223.25.9.74,PH,Philippines,1,http/php_files_scan:1
+185.220.102.251,DE,Germany,1,ssh/user-enumeration:1
+46.101.35.88,GB,United Kingdom,1,http/not_a_browser:1
+139.99.186.165,AU,Australia,1,http/not_a_browser:1
+206.189.105.150,NL,Netherlands,1,ssh/user-enumeration:1
+2607:5300:60:1c57::,CA,Canada,1,http/php_files_scan:1
+106.55.18.86,CN,China,1,http/php_files_scan:1
+139.59.144.132,DE,Germany,1,ssh/user-enumeration:1
+78.47.218.140,DE,Germany,1,http/php_files_scan:1
+188.126.89.28,FI,Finland,1,ssh/user-enumeration:1
+207.154.249.183,DE,Germany,1,ssh/user-enumeration:1
