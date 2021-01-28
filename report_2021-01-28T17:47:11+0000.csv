@@ -1,0 +1,24 @@
+address,country_code,country_name,total_events,counters
+159.89.96.73,DE,Germany,85,ssh/user-enumeration:85
+119.15.191.17,VN,Vietnam,25,ssh/user-enumeration:25
+81.161.63.254,CN,China,15,ssh/user-enumeration:15
+87.251.77.206,RU,Russia,14,ssh/user-enumeration:14
+171.239.251.108,VN,Vietnam,8,ssh/user-enumeration:8
+27.70.134.169,VN,Vietnam,7,ssh/user-enumeration:7
+161.35.179.225,US,United States,5,ssh/user-enumeration:5
+104.248.193.0,NL,Netherlands,5,ssh/user-enumeration:5
+111.6.78.137,CN,China,3,http/php_files_scan:3
+112.185.114.225,KR,South Korea,2,ssh/user-enumeration:2
+195.54.160.134,RU,Russia,2,ssh/user-enumeration:2
+51.159.7.80,FR,France,2,http/not_a_browser:2
+121.4.169.19,CN,China,1,http/php_files_scan:1
+165.22.95.53,DE,Germany,1,ssh/user-enumeration:1
+138.68.89.69,DE,Germany,1,ssh/user-enumeration:1
+192.95.30.137,CA,Canada,1,http/php_files_scan:1
+185.141.241.216,ES,Spain,1,http/php_files_scan:1
+104.248.248.77,DE,Germany,1,ssh/user-enumeration:1
+47.56.240.181,HK,Hong Kong,1,http/php_files_scan:1
+199.19.226.67,US,United States,1,http/php_files_scan:1
+167.71.175.10,US,United States,1,http/not_a_browser:1
+90.243.33.23,GB,United Kingdom,1,http/php_files_scan:1
+149.129.50.37,SG,Singapore,1,http/php_files_scan:1
