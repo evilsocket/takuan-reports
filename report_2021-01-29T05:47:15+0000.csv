@@ -1,0 +1,38 @@
+address,country_code,country_name,total_events,counters
+58.244.255.45,CN,China,371,http/php_files_scan:371
+159.89.96.73,DE,Germany,29,ssh/user-enumeration:29
+81.161.63.254,CN,China,13,ssh/user-enumeration:13
+2600:3c01::f03c:92ff:fe0b:c833,US,United States,10,http/not_a_browser:10
+23.94.186.6,US,United States,10,ssh/user-enumeration:10
+87.251.77.206,RU,Russia,6,ssh/user-enumeration:6
+174.138.5.184,NL,Netherlands,6,ssh/user-enumeration:6
+188.166.109.215,NL,Netherlands,5,ssh/user-enumeration:5
+64.227.115.46,DE,Germany,5,ssh/user-enumeration:5
+45.155.205.108,DE,Germany,4,http/CVE-2017-9841:2|http/ThinkPHP RCE:1|http/XDebug:1
+113.55.4.28,CN,China,4,ssh/user-enumeration:4
+141.98.80.71,PA,Panama,2,ssh/user-enumeration:2
+184.99.139.117,US,United States,2,ssh/user-enumeration:2
+71.219.79.130,US,United States,2,ssh/user-enumeration:2
+185.143.223.136,RU,Russia,2,ssh/user-enumeration:2
+184.102.125.69,US,United States,2,ssh/user-enumeration:2
+71.219.150.143,US,United States,2,ssh/user-enumeration:2
+97.125.156.220,US,United States,2,ssh/user-enumeration:2
+157.230.16.91,DE,Germany,2,ssh/user-enumeration:2
+141.98.80.69,PA,Panama,2,ssh/user-enumeration:2
+82.65.211.222,FR,France,2,ssh/user-enumeration:2
+139.59.144.132,DE,Germany,2,ssh/user-enumeration:2
+141.98.80.82,PA,Panama,2,ssh/user-enumeration:2
+192.42.116.18,NL,Netherlands,2,ssh/user-enumeration:2
+141.98.80.85,PA,Panama,2,ssh/user-enumeration:2
+65.49.20.67,US,United States,1,ssh/user-enumeration:1
+162.247.74.27,US,United States,1,ssh/user-enumeration:1
+138.68.89.69,DE,Germany,1,ssh/user-enumeration:1
+141.98.80.70,PA,Panama,1,ssh/user-enumeration:1
+141.98.80.83,PA,Panama,1,ssh/user-enumeration:1
+207.154.249.183,DE,Germany,1,ssh/user-enumeration:1
+195.54.160.134,RU,Russia,1,ssh/user-enumeration:1
+139.162.122.110,JP,Japan,1,ssh/user-enumeration:1
+104.248.248.77,DE,Germany,1,ssh/user-enumeration:1
+178.73.215.171,SE,Sweden,1,ssh/user-enumeration:1
+35.174.170.30,US,United States,1,http/not_a_browser:1
+13.68.168.107,US,United States,1,http/php_files_scan:1
