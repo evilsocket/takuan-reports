@@ -1,0 +1,35 @@
+address,country_code,country_name,total_events,counters
+167.99.34.7,NL,Netherlands,93,http/php_files_scan:93
+165.227.130.86,DE,Germany,55,ssh/user-enumeration:55
+167.99.211.210,NL,Netherlands,35,ssh/user-enumeration:35
+173.212.240.196,DE,Germany,24,ssh/user-enumeration:24
+209.141.43.49,US,United States,5,ssh/user-enumeration:5
+171.240.192.117,VN,Vietnam,5,ssh/user-enumeration:5
+45.155.205.108,DE,Germany,4,http/CVE-2017-9841:2|http/ThinkPHP RCE:1|http/XDebug:1
+116.110.20.27,VN,Vietnam,4,ssh/user-enumeration:4
+159.203.105.35,US,United States,4,ssh/user-enumeration:4
+3.236.209.64,US,United States,3,http/not_a_browser:3
+141.98.80.93,PA,Panama,2,ssh/user-enumeration:2
+129.204.119.80,CN,China,2,http/php_files_scan:2
+193.142.146.202,NL,Netherlands,2,http/php_files_scan:2
+141.98.80.29,PA,Panama,2,ssh/user-enumeration:2
+141.98.80.90,PA,Panama,2,ssh/user-enumeration:2
+68.183.10.186,NL,Netherlands,2,ssh/user-enumeration:2
+198.12.224.76,US,United States,2,http/php_files_scan:2
+2a02:2788:1038:eed:f04c:adf5:154d:d9e9,BE,Belgium,1,http/php_files_scan:1
+2001:8a0:63a4:1301:25e8:7468:70b5:65d,PT,Portugal,1,http/php_files_scan:1
+80.254.92.76,MT,Malta,1,http/php_files_scan:1
+141.98.80.89,PA,Panama,1,ssh/user-enumeration:1
+222.240.12.206,CN,China,1,http/not_a_browser:1
+200.216.31.20,BR,Brazil,1,ssh/user-enumeration:1
+195.54.160.250,RU,Russia,1,ssh/user-enumeration:1
+35.187.190.226,BE,Belgium,1,http/not_a_browser:1
+182.190.205.97,PK,Pakistan,1,http/php_files_scan:1
+185.233.100.23,FR,France,1,ssh/user-enumeration:1
+104.154.204.209,US,United States,1,http/not_a_browser:1
+120.229.84.105,CN,China,1,http/not_a_browser:1
+51.75.144.43,DE,Germany,1,ssh/user-enumeration:1
+141.98.80.91,PA,Panama,1,ssh/user-enumeration:1
+141.98.80.92,PA,Panama,1,ssh/user-enumeration:1
+91.192.103.34,CH,Switzerland,1,ssh/user-enumeration:1
+125.47.70.116,CN,China,1,http/not_a_browser:1
